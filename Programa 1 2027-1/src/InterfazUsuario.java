@@ -77,7 +77,7 @@ public class InterfazUsuario {
                     break;
 
                 case 6:
-                    System.out.println("\n has salido del programa");
+                    System.out.println("\n Has salido del programa");
                     break;
 
                 default:

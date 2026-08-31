@@ -3,6 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class LecturaArchivo {
+    
     public static int convertirMesAIndice(String mes) {
         switch (mes.toLowerCase().trim()) {
             case "enero": return 0;
